@@ -1,6 +1,6 @@
 # How does medicines travel around the world
 
-**Please read my blog post for the detailed analysis and conclusions about this project. I am giving below a short snippet from my blog post.**
+**Please read my [blog post](https://medium.com/@soniyajain_40637/how-medicines-travel-around-the-world-e797afd0c17b) for the detailed analysis and conclusions about this project. I am giving below a short snippet from my blog post.**
 
 Have you ever wondered where does your medicines comes from? Who else consumes the same branded medicines as you do? Well, I had!  
 
@@ -26,12 +26,15 @@ Conclusion:
 
 Overall, the market concentration is low among importing companies for exported medicines. This means the medicines exported are fairly distributed among the importing countries. However, if we segregate the countries to large and small exporters, the market concentration tends to increase with the increase in export share. It means that the exported medicines are distributed to fewer countries.
 
+Further, the large exporters fairly distribute their medicines to the whole world. However, small exporters exports to limited regions. This is a matter of concern as the fate of these small exporters are dependent on those limited importers. One way of reducing such dependency is promote export diversification. [This](https://www.undp.org/content/dam/undp/library/Poverty%20Reduction/Inclusive%20development/Towards%20Human%20Resilience/Towards_SustainingMDGProgress_Chapter1.pdf) research paper explains beautifully the interaction between export dependence and export concentration, and ways to reduce export dependency
+
 Now that you know how medicines travel around the world, fell free to visit my [interactive dashboard](https://public.tableau.com/profile/soniya4758#!/vizhome/Wheredoesyourmedicinecomesfrom/Dashboard2) to see how medicines traveled from your country.
 
 Source:
-1.[trademap](https://www.trademap.org/Country_SelProduct.aspx?nvpm=1%7c%7c%7c%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c1%7c%7c2%7c1%7c)
+1.[trademap](https://www.trademap.org/Country_SelProduct.aspxnvpm=1%7c%7c%7c%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c1%7c%7c2%7c1%7c)
 2.[howto](https://howmuch.net/articles/world-map-of-drug-exports-2016)
 
 Resources:
-1. [World Bank](https://datacatalog.worldbank.org/import-product-concentration-index)
-2. [unctad](https://unctadstat.unctad.org/EN/IndicatorsExplained.html)
+1. [wikipedia](https://en.wikipedia.org/wiki/Market_concentration)
+2. [World Bank](https://datacatalog.worldbank.org/import-product-concentration-index)
+3. [unctad](https://unctadstat.unctad.org/EN/IndicatorsExplained.html)
