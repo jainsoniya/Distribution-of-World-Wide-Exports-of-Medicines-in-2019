@@ -31,7 +31,8 @@ Further, the large exporters fairly distribute their medicines to the whole worl
 Now that you know how medicines travel around the world, fell free to visit my [interactive dashboard](https://public.tableau.com/profile/soniya4758#!/vizhome/Wheredoesyourmedicinecomesfrom/Dashboard2) to see how medicines traveled from your country.
 
 Source:
-1.[trademap](https://www.trademap.org/Country_SelProduct.aspxnvpm=1%7c%7c%7c%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c1%7c%7c2%7c1%7c)
+1.[trademap](https://www.trademap.org/Country_SelProduct.aspx?nvpm=1%7c%7c%7c%7c%7c30%7c%7c%7c2%7c1%7c1%7c2%7c1%7c%7c2%7c1%7c1)
+
 2.[howto](https://howmuch.net/articles/world-map-of-drug-exports-2016)
 
 Resources:
