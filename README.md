@@ -1,6 +1,6 @@
-# How does medicines travel around the world
+# Distribution of World Wide Exports of Medicines in 2019
 
-**Please read my [blog post](https://medium.com/@soniyajain_40637/how-medicines-travel-around-the-world-e797afd0c17b) for the detailed analysis and conclusions about this project. I am giving below a short snippet from my blog post.**
+**Please read my [blog post](https://soniyajain-40637.medium.com/how-medicines-travel-around-the-world-e797afd0c17b) for the detailed analysis and conclusions about this project. I am giving below a short snippet from my blog post.**
 
 Have you ever wondered where does your medicines comes from? Who else consumes the same branded medicines as you do? Well, I had!  
 
@@ -12,9 +12,9 @@ I sourced the 2019 dataset from Trademap for my analysis. The dataset contains 9
 
 1.	Share in world exports (%): Share of each country in worldwide exports for 2019. There were 155 countries having zero share in exports. Thus, these countries were removed to reduce noise, thereby leaving 52 countries for accurate analysis.
 
-2.	Market concentration of importing countries: It represents the distribution of market share of medicines among importers. The concentration index is ranged between 0 and 1. Higher index indicates that imports are focused in fewer countries whereas lower index indicates more fair distribution of market share among importers. 
+2.	Market concentration: It represents the distribution of medicines exported to various countries. The concentration index is ranged between 0 and 1. Higher index indicates that imports are focused in fewer countries whereas lower index indicates more fair distribution of market share among importers. 
 
-For example, Denmark has 0.74 market concentration of importing countries. This mean Denmark exports medicines to fewer countries. On the contrary, Germany has 0.07 market concentration of importing countries. This means Germany exports its medicines to many countries, enabling its importers to have a fair market share of medicines.
+For example, Denmark has 0.74 market concentration. This mean Denmark exports medicines to fewer countries. On the contrary, Germany has 0.07 market concentration. This means Germany exports its medicines to many countries, enabling its importers to have a fair market share of medicines.
 
 3.	Exporters [ values]: Export Country names.
 
@@ -28,7 +28,7 @@ Overall, the market concentration is low among importing companies for exported 
 
 Further, the large exporters fairly distribute their medicines to the whole world. However, small exporters exports to limited regions. This is a matter of concern as the fate of these small exporters are dependent on those limited importers. One way of reducing such dependency is promote export diversification. [This](https://www.undp.org/content/dam/undp/library/Poverty%20Reduction/Inclusive%20development/Towards%20Human%20Resilience/Towards_SustainingMDGProgress_Chapter1.pdf) research paper explains beautifully the interaction between export dependence and export concentration, and ways to reduce export dependency
 
-Now that you know how medicines travel around the world, fell free to visit my [interactive dashboard](https://public.tableau.com/profile/soniya4758#!/vizhome/Wheredoesyourmedicinecomesfrom/Dashboard2) to see how medicines traveled from your country.
+Now that you know how medicines travel around the world, fell free to visit my [interactive dashboard](https://public.tableau.com/profile/soniya4758#!/vizhome/Wheredoesyourmedicinecomesfrom/Story1) to see how medicines traveled from your country.
 
 Source:
 1.[trademap](https://www.trademap.org/Country_SelProduct.aspx?nvpm=1%7c%7c%7c%7c%7c30%7c%7c%7c2%7c1%7c1%7c2%7c1%7c%7c2%7c1%7c1)
